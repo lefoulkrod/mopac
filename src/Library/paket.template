@@ -1,0 +1,6 @@
+﻿type project
+id Mopac
+title Mopac
+description 
+	A collection of useful functions for .net.
+authors Larry Foulkrod

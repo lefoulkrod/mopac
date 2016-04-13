@@ -266,3 +266,5 @@ paket-files/
 packages/
 
 xunit_output.xml
+
+build\
